@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Sampled News Audio in Turkish Popular Music" ] },
+    "summary": { "en": [ "Following the February 6th, 2023 earthquake in Southern Turkey and Northern Syria, musicians released music videos highlighting its catastrophic effects. This project analyzes how these musicians incorporate news footage, interviews, and other sampled audio material from the earthquake and its aftermath. These annotations identify which sampled media is being used and how the artists are integrating this media into their compositional form." ] },
+    "items": [
+    ]
+}
